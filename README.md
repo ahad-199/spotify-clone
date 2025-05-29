@@ -12,7 +12,4 @@ A visually appealing, lightweight, and responsive **Spotify web app clone** buil
 
 ## 📸 Screenshots
 
-> (Add images here in Markdown like below after uploading them to the repo or an image host)
-
-```md
 ![Home Page](./img/screenshot-home.PNG)
